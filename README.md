@@ -1,4 +1,4 @@
-# Smart Sales AI
+# Intelligent-Sales-Prediction-and-business-Analytics-Platform
 
 Machine Learning based Sales Prediction Web Application built using:
 
